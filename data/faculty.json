@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "amos-dada",
+    "name": "Dr. Amos Dele Dada, PhD, P.Eng., FNSChE",
+    "role": "President & Founder",
+    "photo": "assets/faculty/amos-dada.svg",
+    "initials": "AD",
+    "bio": "Dr. Amos Dele Dada is a theologian, educator, pastor, author, professional engineer and global leadership advocate committed to raising spiritually mature, biblically grounded and transformational leaders. A native of Igede-Ekiti, Nigeria, he earned his BSc and MSc in Chemical Engineering from Obafemi Awolowo University and became the first person to earn a PhD in Chemical Engineering from the University of Benin, with postdoctoral research at UMIST, UK. He holds a Doctor of Ministry from the International College of Ministry and studied at Harvard Divinity School, following a distinguished career in the oil, gas and petrochemical industry. As Founder and President of International Gathering of Eagles Ministries, he has ministered across Africa, Europe, Asia, the Americas and Oceania, and authored titles such as Raising an Eagle Generation and The Flight of an Eagle.",
+    "teaches": [
+      "Leadership",
+      "Christian Living",
+      "The Holy Spirit"
+    ]
+  },
+  {
+    "slug": "joshua-olanrewaju",
+    "name": "Pastor Joshua Olanrewaju",
+    "role": "Principal",
+    "photo": "assets/faculty/joshua-olanrewaju.svg",
+    "initials": "JO",
+    "bio": "Teacher, pastor, mentor and administrator with 25+ years in ministry. A school teacher since 1996 and in pastoral work since 2009, he serves as an administrator, teacher and disciple-maker, equipping believers in faith, purpose, service and evangelism, and is active in community development and youth mentorship.",
+    "teaches": [
+      "Discipleship",
+      "Evangelism",
+      "Foundations of Faith"
+    ]
+  },
+  {
+    "slug": "walter-andhoga",
+    "name": "Bishop Dr. Walter O. Andhoga",
+    "role": "Lecturer · Leadership & Governance",
+    "photo": "assets/faculty/walter-andhoga.svg",
+    "initials": "WA",
+    "bio": "Bishop Dr. Walter O. Andhoga is a seasoned pastor with the Free Pentecostal Fellowship in Kenya (FPFK) since 1990, having served as General Secretary of both FPFK and the East and Central Africa Pentecostal Association. He holds a PhD in Leadership and Governance from Kisii University, Kenya, and has lectured at Jaramogi Oginga Odinga University of Science and Technology and Karen Christian College. He currently lectures and directs the Institute of Church Renewal and Leadership at the International Leadership University, Nairobi, with expertise in leadership development and coaching.",
+    "teaches": [
+      "Leadership & Governance",
+      "Church Renewal",
+      "Coaching"
+    ]
+  },
+  {
+    "slug": "emmanuel-olorunnisola",
+    "name": "Dr. Emmanuel Femi Olorunnisola",
+    "role": "Lecturer · Pastoral Leadership",
+    "photo": "assets/faculty/emmanuel-olorunnisola.svg",
+    "initials": "EO",
+    "bio": "Dr. Emmanuel Femi Olorunnisola is an ordained Pastor in Christ Apostolic Church and the Pastor in charge of Christ Apostolic Church, City on a Hill, in Virginia, USA. He is President of The Leadership Fellowship, which he co-founded with his wife, Olasunbo, a network for Christian leaders across various professions to connect, renew, gain enlightenment, foster fellowship and undergo transformation. He earned a bachelor's degree in Architecture from Ladoke Akintola University of Technology (LAUTECH), a master's degree (MDiv. equivalent) in Christian Leadership from Dallas Theological Seminary, Dallas, Texas, and a Doctor of Ministry (D.Min.) in Pastoral Leadership from Liberty University, Virginia. A research scholar specializing in leadership, he currently serves as an Associate Professor at Hampton University's School of Religion. He is happily married to Evangelist Olasunbo Olorunnisola, and together they are blessed with three children.",
+    "teaches": [
+      "Pastoral Leadership",
+      "Christian Leadership"
+    ]
+  },
+  {
+    "slug": "javed-tahir",
+    "name": "Pastor Javed Tahir",
+    "role": "Lecturer · Biblical Studies & Leadership",
+    "photo": "assets/faculty/javed-tahir.svg",
+    "initials": "JT",
+    "bio": "Pastor Javed Tahir is Principal of House of Missions Bible College, Lahore, and Founder Chairman and Senior Pastor of House of Missions Church, Lahore. With over two decades in theological education, he previously served as Vice Principal of Alpha Omega Bible College (2005–2024) and as Associate Pastor with Grace Assemblies of Pakistan. He holds a Master of Philosophy in Biblical Studies from Forman Christian College, a Master of Arts in Organizational Leadership from Zarephath Bible Seminary, a Master in Leadership from Alpha Omega Bible College, and Bachelor's degrees in Theological Studies and Legislative Law (LL.B). His areas of specialization include biblical studies, expository preaching, organizational leadership, discipleship and Christian education.",
+    "teaches": [
+      "Biblical Studies",
+      "Expository Preaching",
+      "Organizational Leadership"
+    ]
+  },
+  {
+    "slug": "reggie-ephraim",
+    "name": "Pastor Reggie Ephraim",
+    "role": "Lecturer · Practical Bible Teaching",
+    "photo": "assets/faculty/reggie-ephraim.svg",
+    "initials": "RE",
+    "bio": "Pastor Reggie Ephraim is the son of Apostles Abraham Ephraim and Lilian Joyce. He has served the Lord since his teenage years and has been in pastoral ministry since 2002, faithfully serving as Pastor of Abraham Evangelistic Ministries in Salem, India, for 17 years. In 2018, in obedience to God's call, he moved to serve the Lord Jesus Christ in the Christ Apostolic Church (Bethel), Toronto, and presently serves at the Christ Apostolic Church (Bethel) in Scarborough, Canada. A native of India, Pastor Reggie is an effective communicator of God's Word in both Tamil and English, known for a practical and dynamic teaching style that helps people apply the timeless truths of Scripture to everyday life. He and his wife, Twinkle, have been married since 1999 and are blessed with two children, Jaden and Joanna. The family resides in Toronto, Canada, living to the glory of God.",
+    "teaches": [
+      "Practical Bible Teaching",
+      "Discipleship",
+      "Applied Scripture"
+    ]
+  }
+]

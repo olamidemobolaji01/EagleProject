@@ -1,0 +1,45 @@
+:root {
+  --bg: #ffffff;
+  --fg: #0a0a0a;
+  --muted: #f5f5f5;
+  --muted-fg: #475569;
+  --heading: #0f172a;
+  --border: #e0e0e0;
+  --accent: #a87e1e;
+  --accent-soft: #cba135;
+  --accent-strong: #8a6718;
+  --accent-light: #dfc26d;
+  --accent-link: #7a5c14;
+
+  --slate-50: #f8fafc;
+  --slate-100: #f1f5f9;
+  --slate-200: #e2e8f0;
+  --slate-300: #cbd5e1;
+  --slate-400: #94a3b8;
+  --slate-500: #64748b;
+  --slate-600: #475569;
+  --slate-900: #0f172a;
+  --neutral-500: #737373;
+  --neutral-700: #404040;
+  --neutral-800: #262626;
+  --neutral-950: #0a0a0a;
+
+  --radius: 0.75rem;
+  --radius-card: 1.5rem;
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-display: "Outfit", system-ui, sans-serif;
+  --font-body: "Plus Jakarta Sans", system-ui, sans-serif;
+  --container: 1200px;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+
+  --gutter: 1rem;
+  --focus-ring: var(--accent);
+  --text-strong: var(--fg);
+  --text-caption: var(--slate-600);
+}
+
+@media (min-width: 768px) {
+  :root {
+    --gutter: 2rem;
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "semesters": [
+    {
+      "label": "Semester 1",
+      "programme": "Certificate in Ministry",
+      "summary": "Foundations in Scripture, grace and the core doctrines of the faith."
+    },
+    {
+      "label": "Semester 2",
+      "programme": "Certificate in Ministry",
+      "summary": "Deepen your biblical foundation and complete the Foundation Year."
+    },
+    {
+      "label": "Semester 3",
+      "programme": "Diploma in Ministry & Leadership",
+      "summary": "Advanced training in servant leadership, vision and building teams."
+    },
+    {
+      "label": "Semester 4",
+      "programme": "Diploma in Ministry & Leadership",
+      "summary": "Preaching, the gifts of the Spirit and graduation readiness."
+    }
+  ],
+  "programmes": [
+    {
+      "id": "certificate-in-ministry",
+      "title": "Certificate in Ministry",
+      "category": "Foundation",
+      "icon": "book-open",
+      "duration": "Foundation Year · Semester 1 & 2",
+      "format": "Online",
+      "summary": "Foundation Year (Semester 1 & 2). Build strong spiritual and biblical foundations for effective ministry.",
+      "description": "The Foundation Year grounds you in the whole of Scripture, sound interpretation and the core doctrines of the faith, laying a strong, grace-based foundation for a lifetime of effective, Spirit-filled ministry.",
+      "syllabus": [
+        "Introduction to the Bible",
+        "Old & New Testament Survey",
+        "Sound Interpretation",
+        "The Core Doctrines",
+        "Foundations of Grace & Faith"
+      ],
+      "outcomes": [
+        "Understand the storyline of the Bible from Genesis to Revelation",
+        "Read and interpret Scripture using sound, context-based principles",
+        "Explain the core doctrines of the Christian faith with confidence",
+        "Build a firm foundation for growth in ministry and leadership"
+      ],
+      "modules": [
+        {
+          "title": "Introduction to the Bible",
+          "lessons": [
+            "How we got the Bible",
+            "The structure of Scripture",
+            "Reading with understanding"
+          ]
+        },
+        {
+          "title": "Bible Survey",
+          "lessons": [
+            "Old Testament survey",
+            "New Testament survey",
+            "The life of Jesus and the early church"
+          ]
+        },
+        {
+          "title": "Sound Interpretation",
+          "lessons": [
+            "Context and genre",
+            "Observation, interpretation, application",
+            "Avoiding common errors"
+          ]
+        },
+        {
+          "title": "The Core Doctrines",
+          "lessons": [
+            "God, Jesus and the Holy Spirit",
+            "Salvation by grace through faith",
+            "The church and the last things"
+          ]
+        }
+      ],
+      "tuitionUsd": 2500,
+      "tuitionNgn": "₦120,000",
+      "included": false
+    },
+    {
+      "id": "diploma-ministry-leadership",
+      "title": "Diploma in Ministry & Leadership",
+      "category": "Leadership",
+      "icon": "compass",
+      "duration": "Advanced Training · Semester 3 & 4",
+      "format": "Online",
+      "summary": "Advanced Training (Semester 3 & 4). Develop leadership skills and practical ministry experience for greater impact.",
+      "description": "The Advanced Training year develops Christlike leadership, vision and practical ministry competence, equipping you to build teams, preach and teach, and serve the local church and the nations with greater impact.",
+      "syllabus": [
+        "The Heart of a Servant Leader",
+        "Vision & Strategy",
+        "Building & Leading Teams",
+        "Preaching & Teaching",
+        "Gifts of the Spirit"
+      ],
+      "outcomes": [
+        "Lead from Christlike character and a servant's heart",
+        "Cast and communicate a clear, God-given vision",
+        "Build, develop and empower healthy ministry teams",
+        "Preach, teach and minister in the gifts of the Spirit with wisdom"
+      ],
+      "modules": [
+        {
+          "title": "Servant Leadership",
+          "lessons": [
+            "Character before gifting",
+            "Integrity and humility",
+            "Leading yourself first"
+          ]
+        },
+        {
+          "title": "Vision & Teams",
+          "lessons": [
+            "Discerning God's vision",
+            "Building and empowering teams",
+            "Handling conflict biblically"
+          ]
+        },
+        {
+          "title": "Preaching & Teaching",
+          "lessons": [
+            "Preparing a message",
+            "Delivery and communication",
+            "Teaching the Bible"
+          ]
+        },
+        {
+          "title": "Gifts of the Spirit",
+          "lessons": [
+            "Understanding spiritual gifts",
+            "Operating in the gifts",
+            "Order and discernment"
+          ]
+        }
+      ],
+      "tuitionUsd": 6000,
+      "tuitionNgn": "₦300,000",
+      "included": false
+    },
+    {
+      "id": "practical-spiritual-transformational",
+      "title": "Practical, Spiritual & Transformational",
+      "category": "Practicum",
+      "icon": "heart-handshake",
+      "duration": "Runs across all semesters",
+      "format": "Online",
+      "summary": "Biblical Teaching, Leadership Development, Ministry Practicum, Mentorship and Outreach woven through the whole programme.",
+      "description": "This practical track runs alongside your studies, turning teaching into transformation through hands-on ministry practicum, personal mentorship and real outreach, so you are prepared, equipped and empowered for life, ministry and leadership.",
+      "syllabus": [
+        "Biblical Teaching",
+        "Leadership Development",
+        "Ministry Practicum",
+        "Mentorship",
+        "Outreach & Evangelism"
+      ],
+      "outcomes": [
+        "Apply biblical truth in real ministry settings",
+        "Grow through personal mentorship and accountability",
+        "Serve in hands-on ministry practicum and outreach",
+        "Be prepared, equipped and empowered for Kingdom impact"
+      ],
+      "modules": [
+        {
+          "title": "Ministry Practicum",
+          "lessons": [
+            "Serving in the local church",
+            "Practical ministry skills",
+            "Reflection and growth"
+          ]
+        },
+        {
+          "title": "Mentorship",
+          "lessons": [
+            "Walking with a mentor",
+            "Character and accountability",
+            "Discipling others"
+          ]
+        },
+        {
+          "title": "Outreach & Evangelism",
+          "lessons": [
+            "Sharing your faith",
+            "Community outreach",
+            "Discipling new believers"
+          ]
+        }
+      ],
+      "tuitionUsd": 0,
+      "tuitionNgn": null,
+      "included": true
+    }
+  ]
+}

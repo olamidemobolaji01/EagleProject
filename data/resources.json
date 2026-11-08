@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Statement of Faith",
+    "description": "Our doctrinal foundation and what we believe as a Bible school.",
+    "format": "PDF",
+    "icon": "file-text",
+    "href": "#"
+  },
+  {
+    "title": "Academic Calendar",
+    "description": "Key dates, intakes and term schedules for the academic year.",
+    "format": "PDF",
+    "icon": "calendar",
+    "href": "#"
+  },
+  {
+    "title": "Student Handbook",
+    "description": "Policies, expectations and everything you need to succeed as a student.",
+    "format": "PDF",
+    "icon": "book-open",
+    "href": "#"
+  },
+  {
+    "title": "Program Brochure",
+    "description": "An overview of every certificate program and what each one covers.",
+    "format": "PDF",
+    "icon": "file-text",
+    "href": "#"
+  }
+]
